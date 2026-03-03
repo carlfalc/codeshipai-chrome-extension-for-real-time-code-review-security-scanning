@@ -1,0 +1,2 @@
+# codeshipai-chrome-extension-for-real-time-code-review-security-scanning
+CodeshipAI is a Chrome extension that provides instant code review feedback and security vulnerability detection as developers write code in browser-based IDEs like GitHub Codespaces, StackBlitz, CodePen, and Replit. With over 28 million developers worldwide increasingly working in cloud-based development environments, there's a massive gap for rea
