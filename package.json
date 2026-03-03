@@ -1,0 +1,16 @@
+{
+  "name": "codeshipai-chrome-extension-for-real-time-code-review-security-scanning",
+  "version": "0.1.0",
+  "description": "CodeshipAI is a Chrome extension that provides instant code review feedback and security vulnerability detection as developers write code in browser-based IDEs like GitHub Codespaces, StackBlitz, Code",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "ai",
+    "saas",
+    "the-firm"
+  ],
+  "author": "The Firm — AI Venture Studio",
+  "license": "MIT"
+}
